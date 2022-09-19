@@ -2,13 +2,17 @@
 
 > Trilha Ignite
 
+Projeto construído no evento Next Level Week da Rocketseat.
+
 ## Pagina Web
-[PreviewWeb](./assets/.github/PreviewWeb.png)
+<img src="./assets/.github/PreviewWeb.PNG" alt="Web Page" width="900"/>
 
 ## App Mobile
+<img src="./assets/.github/PreviewMobile1.jpeg" alt="HomePage Mobile" width="200"/>
+<img src="./assets/.github/PreviewMobile2.jpeg" alt="Ads Pag Mobile" width="200"/>
+<img src="./assets/.github/PreviewMobile3.jpeg" alt="Show Duo Page" width="200"/>
 
 
-Projeto construido no evento Next Level Week da Rocketseat.
 
 ## 🛠 Tecnologias
 
