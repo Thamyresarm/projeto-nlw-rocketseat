@@ -18,7 +18,9 @@ Projeto construído no evento Next Level Week da Rocketseat.
 - CSS
 - ReactJS
 - NodeJS
-- Reactive Native
+- React Native
+- TypeScript
+- SqLite
 - Git e GitHub
 
 ## 💬 Contato
